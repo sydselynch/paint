@@ -1,0 +1,28 @@
+330 review session
+
+5a. a derived class inherits public/protected members of its base class
+
+b. in c++ the class is the language construct used to create objects
+	-structs used in c, inherently public data members
+
+c. default access spec is private in classes
+
+d.  polymorphic (behavior) is when member functions in a class hierarchy behave differently dpendong upon which obj performs call
+
+e. an abstract/pure virtual class cannot be instantiated
+
+f. a pure virtual function has no body or def in the class in which its declared
+
+g. false, protected stays protected
+
+h. false reference or value
+
+
+
+extra credit: write implementation so that it was compile with gcc but not g++ and explain why
+	- could overwrite the "new" keyword or "delete"
+
+c: malloc, free, struct, char *, printf, void*, array[]
+c++: new, delete, class, string, cout <<, dynamic cast, static cast, vector
+
+cat test.txt | grep "moo"
